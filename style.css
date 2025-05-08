@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 100px;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: bisque;
+    align-items: center;
+
+}
+.right-nav-bar ul{
+    list-style-type:none;
+    display: flex;
+
+}
+
+.right-nav-bar li{
+    margin-right: 40px;
+}
+.right-nav-bar ul a{
+    text-decoration: none;
+    color: black;
+}
