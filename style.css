@@ -42,3 +42,9 @@
 .main-caption{
     font-size: 25px;
 }
+li:hover{
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(40, 117, 188);
+    font-weight: bold;
+}
